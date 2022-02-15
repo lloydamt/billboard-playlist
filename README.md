@@ -1,2 +1,2 @@
 The program uses beautiful soup to scrape through billboard hot 100 data to obtain the present entries.
-Spotipy python library is used to interface with the spotify API for authentication and posting data.
+Spotipy python library is used to interface with the spotify API for authentication and posting data to the playlist endpoint.
